@@ -1,2 +1,4 @@
 # Ignore python compilation cache
 __pycache__
+# Removing test data from the git tracker
+data
